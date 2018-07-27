@@ -18,5 +18,6 @@ class Cat
     @playing
   end
 end
-Luna = Cat.new(okay,walked outside,ate fish,played with toys)
+Luna = Cat.new("okay","walked_outside","ate_fish","played_with_toys")
+
 puts "Luna's mood is so much better now!"
